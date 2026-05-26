@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcrocess",
+        "uuid": 869268,
+        "checksum": "s5mai9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
